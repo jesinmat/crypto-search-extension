@@ -1,0 +1,19 @@
+{
+    "name": "Crypto Token Finder",
+    "description": "Find a token fast on coingecko.com or coinmarketcap.com",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/gecko16.png",
+        "32": "icons/gecko32.png",
+        "96": "icons/gecko96.png"
+      }
+    },
+    "icons": {
+        "16": "icons/gecko16.png",
+        "32": "icons/gecko32.png",
+        "96": "icons/gecko96.png"
+      }
+  }
